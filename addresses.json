@@ -1,0 +1,40 @@
+{
+    "contracts": {
+      "ethereum": {
+        "kernel": "0xcfcff4Eb4799cdA732E5b27C3a36A9CE82DbabE0",
+        "userPositions": "0x66d430Fd4B66e306132fe97723a6d55BAA404d2c",
+        "biosToken": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+        "wrappedNativeToken": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+      },
+        "polygon": {
+            "kernel": "0x649Cfd798Dd0e3400A9B691ec29b41d40F62A0C2",
+            "userPositions": "0x7CD26A6E400b22d5853c5Bc77CBD9A149C997068",
+            "biosToken": "0xe20D2Df5041f8Ed06976846470f727295cDd4D23",
+            "wrappedNativeToken": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"               
+        },
+        "fantom": {
+            "kernel": "0x9db0E84EA53C5a3c000a721Bb4295a6053b3dE78",
+            "userPositions": "0xd4fACFe974B8b4C2e5BD8020B1dcc8C4C6459014",
+            "biosToken": "0x75e0eB8e6d92ab832bB11E46c041D06a89aC5F0D",
+            "wrappedNativeToken": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"               
+        },
+        "avalanche": {
+            "kernel": "0x479eA3715682E6255234E788875bDbded6FaAe41",
+            "userPositions": "0x363Da5aDd8047fbFeB56bceDB886c13CD4e54A85",
+            "biosToken": "0xd7783a275E53FC6746dEDfbAD4a06059937502A4",
+            "wrappedNativeToken": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"               
+        },
+        "bsc": {
+            "kernel": "0x37c12DE5367Fa61Ad05e2BF2d032d7ce5dd31793",
+            "userPositions": "0xe1B683F9B17F1a05a9f6F7AcC1D715184a831658",
+            "biosToken": "0xCF87d3d50A98A7832f5CfdF99aE1B88C7cFbA4a7",
+            "wrappedNativeToken": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"               
+        },
+        "metis": {
+            "kernel": "0xa1DA47F6563e7B17075FcA61DeDC4622aE2F3912",
+            "userPositions": "0x2a5352C810D0C1cC1e907Db0552459B46a82433B",
+            "biosToken": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
+            "wrappedNativeToken": "0xa863246658dea34111c3c1dcedb2cfd5d6067334"               
+        }
+    }
+  }
